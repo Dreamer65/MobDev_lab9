@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DZ9</string>
+    <string name="text_view_head">Already Have an Account</string>
+    <string name="edit_text_email">Email</string>
+    <string name="edit_text_password">Password</string>
+    <string name="button_login">LOGIN</string>
+    <string name="edit_text_forgot_password">FORGOT PASSWORD?</string>
+    <string name="edit_text_or">OR</string>
+    <string name="edit_text_new_user">New User? Register Now</string>
+</resources>
